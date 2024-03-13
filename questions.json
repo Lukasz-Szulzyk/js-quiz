@@ -1,0 +1,44 @@
+{
+    "quizMaxTime" : 62,
+    "questions" : [
+        {
+            "q" : "What is the highest peak on Earth?",
+            "answers": [
+                "Mount Kilimanjaro",
+                "Mount Everest",
+                "Mount Fuji",
+                "K2"
+            ],
+            "correctAnswerNum": 1
+        },
+        {
+            "q" : "Which country has the largest population in the world?",
+            "answers": [
+                "India",
+                "China",
+                "United States"
+            ],
+            "correctAnswerNum": 1
+        },
+        {
+            "q" : "Which ocean is the largest by surface area?",
+            "answers": [
+                "Pacific Ocean",
+                "Atlantic Ocean",
+                "Indian Ocean",
+                "Arctic Ocean"
+            ],
+            "correctAnswerNum": 0
+        },
+        {
+            "q" : "What is the largest lake in the world by surface area?",
+            "answers": [
+                "Lake Ontario",
+                "Lake Superior",
+                "Lake Michigan",
+                "Lake Baikal"
+            ],
+            "correctAnswerNum": 3
+        }
+    ]
+}
